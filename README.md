@@ -1,10 +1,12 @@
-### Olá eu sou Alessandro 👋
+### Hello World 👋
 
+- 👨‍ Sou Alessandro, tenho 23 anos, sou de Salvador - BA
+- 👨‍💻 Em busca de oportunidades
+- 📘 Cursando Analise e desenvolvimento de sistemas
+- 👨‍🎓 Qualificação profissional em Mecatrônica Industrial
 - 🔭 Sou estudante de Front-end
 - 🌱 Estudando Java
 - 📫 Contate-me no email: sandroanalista.100@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
  <div>
@@ -26,7 +28,6 @@
   <a href="https://www.linkedin.com/in/alessandro-correia-a57077186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the    badge&logo=linkedin&logoColor=white" target="_blank"></a>     
    </div>
  
-  ![Snake animation](https://github.com/Alecorreeia/Alecorreeia/blob/output/github-contribution-grid-snake.svg)
-  
+   
 </div>
 
