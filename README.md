@@ -5,7 +5,7 @@
 - 📘 Cursando Analise e desenvolvimento de sistemas
 - 👨‍🎓 Qualificação profissional em Mecatrônica Industrial
 - 🔭 Sou estudante de Front-end
-- 🌱 Estudando Java
+- 🌱 Estudando
 - 📫 Contate-me no email: sandroanalista.100@gmail.com
 
 
