@@ -1,10 +1,10 @@
 ### Hello World 👋
 
 - 👨‍ Sou Alessandro, tenho 25 anos
-- 👨‍💻 Em busca de oportunidades
+- 👨‍💻 Em buscar de uma Oportunidade para Analista Junior
 - 📘 Formado em Analise e desenvolvimento de sistemas
 - 👨‍🎓 Qualificação profissional em Mecatrônica Industrial
-- 🔭 Desenvolvedor
+- 🔭 Analista de Dadaos
 - 📫 Contate-me no email: sandroanalista.100@gmail.com
 
 
