@@ -2,8 +2,8 @@
 
 - 👨‍ Sou Alessandro, tenho 25 anos
 - 👨‍💻 Em buscar de uma Oportunidade para Analista Junior
-- 📘 Formado em Analise e desenvolvimento de sistemas
-- 👨‍🎓 Qualificação profissional em Mecatrônica Industrial
+- 📘 Me pergunte sobre: SQL, Python, Power BI, Cloud
+- 👨‍🎓 Formado em Analise e desenvolvimento de sistemas
 - 🔭 Analista de Dadaos
 - 📫 Contate-me no email: sandroanalista.100@gmail.com
 
