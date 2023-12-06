@@ -1,8 +1,8 @@
 ### Hello World 👋
 
-- 👨‍ Sou Alessandro, tenho 24 anos, sou de Salvador - BA
+- 👨‍ Sou Alessandro, tenho 25 anos
 - 👨‍💻 Em busca de oportunidades
-- 📘 Cursando Analise e desenvolvimento de sistemas
+- 📘 Formado em Analise e desenvolvimento de sistemas
 - 👨‍🎓 Qualificação profissional em Mecatrônica Industrial
 - 🔭 Desenvolvedor
 - 📫 Contate-me no email: sandroanalista.100@gmail.com
