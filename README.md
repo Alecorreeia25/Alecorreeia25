@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 - 👨‍ Sou Alessandro, tenho 25 anos
-- 👨‍💻 Em buscar de uma Oportunidade para Analista Junior
+- 👨‍💻 Analista de Dados
 - 📘 Me pergunte sobre: SQL, Python, Power BI, Cloud
 - 👨‍🎓 Formado em Analise e desenvolvimento de sistemas
 - 🔭 Analista de Dadaos
